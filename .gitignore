@@ -1,0 +1,7 @@
+.DS_Store
+.env
+logfile
+authentication_tutorial.py
+*.vscode
+*__pycache__
+*migrations/
