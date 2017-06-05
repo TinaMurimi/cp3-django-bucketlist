@@ -1,7 +1,12 @@
 .DS_Store
 .env
-logfile
-authentication_tutorial.py
 *.vscode
+
+authentication_tutorial.py
+logfile
+package*.json
+
+
+*node_modules/
 *__pycache__
 *migrations/
